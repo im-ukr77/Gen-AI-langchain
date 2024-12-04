@@ -12,3 +12,4 @@ if cuisine:
     st.write("**Menu Items**")
     for item in menu_items:
         st.write("-", item)
+
